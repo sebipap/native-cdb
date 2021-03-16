@@ -1,12 +1,17 @@
 {
-  "name": "nativeCDB",
-  "displayName": "nativeCDB",
+  "name": "CryptoDolarBlue",
+  "displayName": "CryptoDolarBlue",
   "expo": {
-    "name": "nativeCDB",
-    "slug": "nativeCDB",
+    "icon": "./icon.png",
+    "android": {
+      "package": "sebipapa.cdb"
+    },
+    "name": "CryptoDolarBlue",
+    "slug": "CryptoDolarBlue",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   }
 }
